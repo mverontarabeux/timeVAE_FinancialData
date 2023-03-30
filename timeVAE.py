@@ -13,7 +13,7 @@ from tensorflow.keras.models import Model
 from tensorflow.keras.backend import random_normal
 from tensorflow.keras.optimizers import Adam
 
-from utils2 import get_mnist_data, draw_orig_and_post_pred_sample, plot_latent_space
+from utils_timeVAE import get_mnist_data, draw_orig_and_post_pred_sample, plot_latent_space
 from timeVAE_base import BaseVariationalAutoencoder, Sampling 
 
 
