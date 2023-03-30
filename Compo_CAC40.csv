@@ -1,0 +1,41 @@
+﻿Rank,Ticker,Name,Weighting
+1,MC.PA,LVMH,0.1173
+2,TTE.PA,Total,0.0917
+3,SAN.PA,Sanofi,0.0683
+4,OR.PA,L’Oreal,0.0609
+5,SU.PA,Schneider Electric,0.051
+6,AI.PA,Air Liquide,0.047
+7,BNP.PA,BNP Paribas,0.037
+8,AIR.PA,Airbus,0.0401
+9,KER.PA,Kering,0.0262
+10,CS.PA,AXA,0.0321
+11,DG.PA,Vinci,0.0342
+12,EL.PA,ESSILORLUXOTTICA,0.0336
+13,BN.PA,Danone,0.0238
+14,SAF.PA,Safran,0.0245
+15,RI.PA,Pernod Ricard,0.0298
+16,STLA.PA,Stellantis,0.0206
+17,RMS.PA,Hermes,0.0294
+18,VIV.PA,Vivendi,0.0047
+19,SGO.PA,Saint-Gobain,0.0132
+20,DSY.PA,Dassault Systemes,0.0182
+21,CAP.PA,Capgemini,0.0196
+22,ML.PA,Michelin,0.0126
+23,ENGI.PA,Engie,0.0165
+24,LR.PA,Legrand,0.0136
+25,STM.PA,STMicroelectronics,0.0157
+26,ORA.PA,Orange,0.0131
+27,TEP.PA,Teleperformance,0.0118
+28,GLE.PA,Société Générale,0.0126
+29,MT.AS,ArcelorMittal,0.0086
+30,WLN.PA,Worldline,0.0074
+31,ACA.PA,Crédit Agricole,0.0087
+32,ALO.PA,Alstom,0.0041
+33,VIE.PA,Veolia Environ,0.01
+34,PUB.PA,Publicis Groupe,0.0085
+35,CA.PA,Carrefour,0.0064
+36,URW.AS,Unibail,0.0036
+37,HO.PA,Thales,0.0092
+38,EN.PA,Bouygues,0.0043
+39,RNO.PA,Renault,0.0044
+40,ERF.PA,Eurofins,0.0058
